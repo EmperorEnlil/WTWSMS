@@ -43,3 +43,13 @@
 550.1.1={
 	holder = 96009 # Vainyagupta 
 }
+555.1.1={
+	holder = 0 # End of Guptas
+}
+# Empire of Harsha 
+606.1.1={
+	holder=36358 # Harshavardhana Pushyabhuti
+}
+647.1.1={
+	holder=0 # Death of Harsha 
+}

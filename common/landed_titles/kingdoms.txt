@@ -1534,6 +1534,175 @@ k_fortriu = {
 	}
 		
 }
+k_ouarsenis = {
+	color={ 204 102 0 }
+	
+	capital = 836 #	Snassen
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_capsa = {
+	color={ 243 114 68 }
+	
+	capital = 1544 # Capsa
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_sicca_veneria = {
+	color={ 178 73 36 }
+	
+	capital = 828 # Sicca Veneria
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_northern_liang = {
+	color={ 166 72 71 }
+
+	culture = xiongnu
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_cabaon = {
+	color={ 166 109 71 }
+	
+	capital = 811 # Tripolitana
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_nemenchia = {
+	color={ 144 104 78 }
+	
+	capital = 1550 # Rmihe
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_hodna = {
+	color={ 169 87 32 }
+	
+	capital = 1551 # Menshke
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_altava = {
+	color={ 243 109 20 }
+	
+	capital = 830 # Altava
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+
+k_vatsagulma = {
+	color={ 20 243 20 }
+	
+	capital = 1259 # Vastagulma 
+	
+	culture = maharashtri_prakrit
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_south_kosala = {
+	color={ 20 243 20 }
+	
+	capital = 1252 # Barasuru 
+	
+	culture = oriya
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+k_pataliputra = {
+	color={ 255 153 51 }
+	
+	capital = 1301 # Mahoba 
+	
+	culture = sanskrit
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+d_triparvatha = {
+	color={ 243 60 60 }
+	
+	capital = 1259 # Vastagulma 
+	
+	culture = kannada
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
+
+k_auresia = {
+	color={ 233 177 140 }
+	
+	capital = 1548 # Tighemi
+	
+	culture = african_romance
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+		
+}
 k_fotla = {
 	color={ 30 95 172 }
 	color2={ 255 255 255 }

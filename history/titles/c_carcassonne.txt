@@ -43,3 +43,7 @@
 531.1.1={ 
 	holder=190069 #Şiudeis
 }
+570.1.1={ 
+	holder=36662 #Gundemar
+	liege = k_visigoths 
+}

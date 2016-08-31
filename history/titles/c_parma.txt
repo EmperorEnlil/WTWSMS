@@ -1,29 +1,9 @@
 455.3.1={
-	holder = 74401
+	holder = 470052
+	liege = "e_wre"
 }
-455.5.31={
-	holder = 74403
-}
-457.1.1={
-	holder = 74404 
-}
-461.1.1={
-	holder = 74405 
-}
-465.1.1={
-	holder = 74406 
-}
-472.1.1={
-	holder = 74415
-}
-473.1.1={
-	holder = 74419
-}
-475.1.1={
-	holder = 96054
-}
-476.7.7={
-	holder = 55
+476.9.4={
+	liege = "k_italy"
 }
 489.1.1={
 	holder = 63 # Theodoric 
@@ -32,10 +12,10 @@
 	holder = 190203 # Athalarik 
 }
 534.1.1={
-	holder = 190203 # Theodahad 
+	holder = 190215 # Theodahad 
 }
 536.1.1={
-	holder = 190215 # Witiges 
+	holder = 190219 # Witiges 
 }
 540.1.1={
 	holder = 190222 # Ildibad
